@@ -1,15 +1,31 @@
-<h1 align="center">Hi 👋, I'm Ian Kiema</h1>
-<h3 align="center">A Passionate Software Dev 🚀 | Problem Solver 💡 | Code Enthusiast 💻</h3>
+<h1 align="center">Hi 👋, I'm Ian Kiema </h1>
+<h3 align="center">A Passionate Full-Stack Developer 🚀 | Problem Solver 💡 | Code Enthusiast 💻</h3>
+
+<p>I am proficient in JavaScript, I specialize in building dynamic and responsive web applications. With expertise in both front-end technologies like HTML, CSS, and React, as well as back-end technologies such as Node.js and Express, I create seamless user experiences and robust server-side functionalities.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iankiema&label=Profile%20views&color=0e75b6&style=flat" alt="iankiema" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iankiema" alt="iankiema" /></a> </p>
 
+
+
+  <hr>
+  <p>🛠️ My Tech Stack:</p>
+  <ul>
+    <li>HTML: Building the structure of web pages</li>
+    <li>CSS: Styling and layout of web pages</li>
+    <li>JavaScript: Adding interactivity and functionality</li>
+    <!-- Add more technologies you are proficient in -->
+  </ul>
+<p>📝 Bio:</p>
+
+- 🌍  I'm based in Nairobi, Kenya.
+- 🔍 Open to New Opportunities!
 - 🌱 I’m currently learning **Ruby, Databases, Ruby on Rails, JavaScript, React & Redux, Algorithms & Data Structures.**
 
-- 👨‍💻 All of my projects are available at [https://iankiema.github.io/My-Portifolio-Personal/](https://iankiema.github.io/My-Portifolio-Personal/)
-
+- 👨‍💻 See my portfolio at [MyPortifolio](http://iankiema.github.io/My-Portifolio-Personal/)
 - 💬 Ask me about **JavaScript, React & Redux and Algorithms & Data Structures.**
+- 🤝  I'm open to collaborating on E-commerce Platform, Real-time Chat Application, Social Media Platform, Financial Management Tool, Online Learning Platform and Travel planning application.
 
 - 📫 How to reach me **kiemaian.ik@gmail.com**
 
