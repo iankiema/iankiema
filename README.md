@@ -1,7 +1,7 @@
 <h1 align="center">Hi! 👋, I'm Ian Kiema </h1>
 <h3 align="center">A Passionate Full-Stack Developer 🚀 | Problem Solver 💡 | Code Enthusiast 💻</h3>
 
-<p>I am proficient in JavaScript, I specialize in building dynamic and responsive web applications. With expertise in both front-end technologies like HTML, CSS, and React, as well as back-end technologies such as Node.js and Express, I create seamless user experiences and robust server-side functionalities.</p>
+<p>  A Full Stack Developer on the brink of completing a transformative coding journey. Armed with expertise in HTML, CSS, JavaScript (with React on the frontend) and Ruby on Rails (for backend magic), I specialize in crafting seamless, end-to-end web applications. Proficient in Git, GitHub, and testing tools like RSpec and Jest, I'm passionate about solving complex problems and optimizing user experiences. Eager to connect with tech enthusiasts, mentors, and collaborators, I'm ready for the next exciting chapter in my coding adventure. Let's create remarkable solutions together! 🚀</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iankiema&label=Profile%20views&color=0e75b6&style=flat" alt="iankiema" /> </p>
 
