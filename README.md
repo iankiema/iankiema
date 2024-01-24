@@ -35,7 +35,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ian-kiema/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ian-kiema-73419779" height="30" width="40" /></a>
 <a href="https://fb.com/https://web.facebook.com/ianmwangikiema/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/ianmwangikiema/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/ian_kiema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ian_kiema" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ian_kiema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ian_kiema" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
