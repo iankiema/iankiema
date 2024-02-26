@@ -23,7 +23,7 @@
 - 🔍 Open to New Opportunities!
 - 🌱 I’m currently learning **Ruby, Databases, Ruby on Rails, JavaScript, React & Redux, Algorithms & Data Structures.**
 
-- 👨‍💻 See my portfolio at [MyPortifolio](http://iankiema.github.io/My-Portifolio-Personal/)
+- 👨‍💻 See my portfolio at [MyPortifolio](https://iankiema.github.io/ian-portfolio/)
 - 💬 Ask me about **JavaScript, React & Redux and Algorithms & Data Structures.**
 - 🤝  I'm open to collaborating on E-commerce Platform, Real-time Chat Application, Social Media Platform, Financial Management Tool, Online Learning Platform and Travel planning application.
 
